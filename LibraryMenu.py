@@ -1,0 +1,7 @@
+### DEV PYTHON PAGE ACCUEIL // MENU // APP MUSIC LIBRARY
+
+
+### LIBRARIES ###
+import tkinter
+
+print("HELLO WORLD!")
